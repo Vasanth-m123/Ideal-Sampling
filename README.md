@@ -220,11 +220,13 @@ plt.show()
 ```
 # Output Waveform
 # Ideal Sampling
-<img width="813" height="538" alt="Screenshot 2025-08-30 104936" src="https://github.com/user-attachments/assets/b489d538-0be7-4bb7-b527-b08962ba0f0c" />
+<img width="1011" height="661" alt="Screenshot 2025-08-30 110314" src="https://github.com/user-attachments/assets/32719dd1-4a15-473d-9735-cb588cb263a8" />
+
 # Natural Sampling
-<img width="804" height="574" alt="Screenshot 2025-08-30 105026" src="https://github.com/user-attachments/assets/828375ec-cc10-42f4-bdbb-56ec4e8e7f4e" />
+<img width="1277" height="904" alt="Screenshot 2025-08-30 110418" src="https://github.com/user-attachments/assets/aed0912d-631b-40cb-8cee-d97a1cf878d3" />
+
 # Flat-top Sampling
-<img width="733" height="517" alt="Screenshot 2025-08-30 105044" src="https://github.com/user-attachments/assets/3592c345-2fb9-47ae-8c5b-21aa3bb276c1" />
+<img width="1281" height="902" alt="Screenshot 2025-08-30 110439" src="https://github.com/user-attachments/assets/52b71888-0a5b-4424-99be-eb0de3a6f30c" />
 
 # Results
 Thus, the python programs for ideal sampling, natural sampling and flat-top sampling has been executed and verified successfully.
